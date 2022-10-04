@@ -363,6 +363,7 @@
 "Assets/Script/Stagescript/BlinkText.cs"
 "Assets/Script/Stagescript/LevelLoader.cs"
 "Assets/Script/Stagescript/StartGame.cs"
+"Assets/StartGame.cs"
 -langversion:9.0
 
 /deterministic
