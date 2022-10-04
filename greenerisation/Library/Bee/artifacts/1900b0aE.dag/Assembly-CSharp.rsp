@@ -357,6 +357,8 @@
 "Assets/Input/PlayerInput.cs"
 "Assets/Script/Inputmanager.cs"
 "Assets/Script/Interactable.cs"
+"Assets/Script/Interactable/CollectCube.cs"
+"Assets/Script/Interactable/Keypad.cs"
 "Assets/Script/PlayerInteract.cs"
 "Assets/Script/PlayerLook.cs"
 "Assets/Script/PlayerMotor.cs"
