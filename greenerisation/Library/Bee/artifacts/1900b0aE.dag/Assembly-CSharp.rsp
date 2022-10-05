@@ -370,6 +370,7 @@
 "Assets/Script/PlayerUI.cs"
 "Assets/Script/Stagescript/BlinkText.cs"
 "Assets/Script/Stagescript/LevelLoader.cs"
+"Assets/Script/Stagescript/NextStage.cs"
 "Assets/Script/Stagescript/StartGame.cs"
 "Assets/Sound.cs"
 -langversion:9.0
