@@ -1,0 +1,225 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.8f1 (b30333d56e81) revision 11731763'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 15776 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/AtomROG/Documents/GitHub/Unity/greenerisation
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+50485
+Successfully changed project path to: C:/Users/AtomROG/Documents/GitHub/Unity/greenerisation
+C:/Users/AtomROG/Documents/GitHub/Unity/greenerisation
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 95.18 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.8f1 (b30333d56e81)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/AtomROG/Documents/GitHub/Unity/greenerisation/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 Laptop GPU (ID=0x249c)
+    Vendor:   NVIDIA
+    VRAM:     8041 MB
+    Driver:   30.0.15.1278
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56204
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007280 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 104.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.711 seconds
+Domain Reload Profiling:
+	ReloadAssembly (712ms)
+		BeginReloadAssembly (117ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (487ms)
+			LoadAssemblies (115ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (118ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (35ms)
+			SetupLoadedEditorAssemblies (278ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (105ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (122ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005119 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\AtomROG\Documents\GitHub\Unity\greenerisation\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\AtomROG\Documents\GitHub\Unity\greenerisation\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 79.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.000 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1000ms)
+		BeginReloadAssembly (94ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (809ms)
+			LoadAssemblies (101ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (199ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (434ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (80ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (239ms)
+				ProcessInitializeOnLoadMethodAttributes (22ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.67 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3752 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (111.6 KB). Loaded Objects now: 4212.
+Memory consumption went from 134.7 MB to 134.6 MB.
+Total: 3.310200 ms (FindLiveObjects: 0.251200 ms CreateObjectMapping: 0.173500 ms MarkObjects: 2.782200 ms  DeleteObjects: 0.102500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 107947.504556 seconds.
+  path: Assets/exit sign
+  artifactKey: Guid(6c2c994ac0f0d0e4d87438c9d39080b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/exit sign using Guid(6c2c994ac0f0d0e4d87438c9d39080b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5611da3431c28397f0e715a44f7a2ee4') in 0.013939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.608000 seconds.
+  path: Assets/Materials/Combined/Roof.mat
+  artifactKey: Guid(bcdeece833c91b34582e0cb8a325f28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Combined/Roof.mat using Guid(bcdeece833c91b34582e0cb8a325f28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfcb0daa653f6323ce977fe86b33a83c') in 0.326409 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.583954 seconds.
+  path: Assets/Prefabs/Scifi_recycle_bin.prefab
+  artifactKey: Guid(7a20afe2d4461f3428491e8b91007209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Scifi_recycle_bin.prefab using Guid(7a20afe2d4461f3428491e8b91007209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c65787f137c6eff5257a232b0fd9046b') in 0.030662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/scifi-recycle-bin/textures/Scifi_recycle_bin_Normal.jpeg
+  artifactKey: Guid(5e2b65f7599247a45b301dad8bde0d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scifi-recycle-bin/textures/Scifi_recycle_bin_Normal.jpeg using Guid(5e2b65f7599247a45b301dad8bde0d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a8e7756a2823ec79c0a6ef2d97e6fea') in 0.057162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.257662 seconds.
+  path: Assets/Fonts/spaceranger.ttf
+  artifactKey: Guid(9da8db16e3785af4899797b27a7bd1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/spaceranger.ttf using Guid(9da8db16e3785af4899797b27a7bd1f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5925709a7485a7125bb43981254f1c0c') in 0.034679 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Customizable Skybox/Materials/pine tree green.mat
+  artifactKey: Guid(471bbc61de2af0a47bd80da0aacc49dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Customizable Skybox/Materials/pine tree green.mat using Guid(471bbc61de2af0a47bd80da0aacc49dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '515ae994aa14c03f4130acf0abf8146a') in 0.013920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Fonts/LEMONMILK-Regular.otf
+  artifactKey: Guid(0dec41c5a2a9f6f468e2bbbbdff053ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/LEMONMILK-Regular.otf using Guid(0dec41c5a2a9f6f468e2bbbbdff053ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b9694052d34dddc6e047d5ddd99367') in 0.023570 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Fonts/LEMONMILK-Regular SDF.asset
+  artifactKey: Guid(2f751d46a0a8a9043a134fa8aa3429bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fonts/LEMONMILK-Regular SDF.asset using Guid(2f751d46a0a8a9043a134fa8aa3429bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '711e17d12efde175b46de90c168c7412') in 0.042590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.043359 seconds.
+  path: Assets/Materials/Re_Bin/Bin1.mat
+  artifactKey: Guid(e0d4f8ba4c630d8499d02e0234d0456f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Re_Bin/Bin1.mat using Guid(e0d4f8ba4c630d8499d02e0234d0456f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72ca77e09aee31770c08fe6c8d2b3387') in 0.021024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/sci-fi-cryo-cabsule/textures/CryoCabsule_Opacity.png
+  artifactKey: Guid(8090817daa8bd814dac21bb07dff49cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sci-fi-cryo-cabsule/textures/CryoCabsule_Opacity.png using Guid(8090817daa8bd814dac21bb07dff49cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c0efee7746df34a66beb833d99f8e12') in 0.026544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/medical-x-ray-image-viewer-200-uploads/source/p_22_xray_sf.fbx
+  artifactKey: Guid(dfdc24ab5f85550438ee3d78c2dbc447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/medical-x-ray-image-viewer-200-uploads/source/p_22_xray_sf.fbx using Guid(dfdc24ab5f85550438ee3d78c2dbc447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '856c10d87e79302b20a41bf59727b265') in 0.290916 seconds 
