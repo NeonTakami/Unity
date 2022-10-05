@@ -354,11 +354,14 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/AudioManager.cs"
 "Assets/Input/PlayerInput.cs"
+"Assets/PauseMenu.cs"
 "Assets/Script/Inputmanager.cs"
 "Assets/Script/Interactable.cs"
 "Assets/Script/Interactable/CollectCube.cs"
 "Assets/Script/Interactable/Keypad.cs"
+"Assets/Script/MainMenu.cs"
 "Assets/Script/PlayerInteract.cs"
 "Assets/Script/PlayerLook.cs"
 "Assets/Script/PlayerMotor.cs"
@@ -366,6 +369,7 @@
 "Assets/Script/Stagescript/BlinkText.cs"
 "Assets/Script/Stagescript/LevelLoader.cs"
 "Assets/Script/Stagescript/StartGame.cs"
+"Assets/Sound.cs"
 -langversion:9.0
 
 /deterministic
