@@ -9,23 +9,17 @@ public class NextStage : MonoBehaviour
 
     public float transitionTime = 1f;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     public void LoadNextLevel()
     {
-        SceneManager.LoadScene("stage02");
+        SceneManager.LoadScene("stage02"); ;
     }
-    
     
     void OnTriggerEnter(Collider hit)
     {
         // When Player contacts "Danger"
         if (hit.CompareTag("Player"))
         {
+            // Get scene index
             LoadNextLevel();
         }
     }
