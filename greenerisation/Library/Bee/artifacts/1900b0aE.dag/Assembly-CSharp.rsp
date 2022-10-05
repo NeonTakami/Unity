@@ -361,6 +361,8 @@
 "Assets/Script/Interactable.cs"
 "Assets/Script/Interactable/CollectCube.cs"
 "Assets/Script/Interactable/Keypad.cs"
+"Assets/Script/Interactable/OpenLight.cs"
+"Assets/Script/Interactable/OpenNote.cs"
 "Assets/Script/MainMenu.cs"
 "Assets/Script/PlayerInteract.cs"
 "Assets/Script/PlayerLook.cs"
