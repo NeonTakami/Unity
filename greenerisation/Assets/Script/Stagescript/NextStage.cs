@@ -17,22 +17,15 @@ public class NextStage : MonoBehaviour
 
     public void LoadNextLevel()
     {
-        StartCoroutine(LoadLevel(SceneManager.GetActiveScene().buildIndex + 1));
+        SceneManager.LoadScene("stage02");
     }
-    IEnumerator LoadLevel(int levelIndex)
-    {
-        transition.SetTrigger("Start");
-
-        yield return new WaitForSeconds(transitionTime);
-
-        SceneManager.LoadScene(levelIndex);
-    }
+    
+    
     void OnTriggerEnter(Collider hit)
     {
         // When Player contacts "Danger"
         if (hit.CompareTag("Player"))
         {
-            // Get scene index
             LoadNextLevel();
         }
     }
