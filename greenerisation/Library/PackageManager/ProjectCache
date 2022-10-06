@@ -5,26 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 638005701883156478
-    m_Hash: 1379546654
-=======
-      ticks: 638004777290661698
-    m_Hash: 1402409877
->>>>>>> 2e1922392a2b4bb82e41fb1d37605c79284719ba
+      ticks: 638006154007320772
+    m_Hash: 3686004346
   m_LockFileStatus:
     m_FilePath: C:/Users/AtomROG/Documents/GitHub/Unity/greenerisation/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 638005701883223705
-    m_Hash: 997044836
-=======
-      ticks: 638004777290671710
-    m_Hash: 3307514886
->>>>>>> 2e1922392a2b4bb82e41fb1d37605c79284719ba
+      ticks: 638006154007330777
+    m_Hash: 60214996
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -591,7 +581,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.2.2
   source: 1
-  resolvedPath: C:\Users\VTG\Documents\GitHub\Unity\greenerisation\Library\PackageCache\com.unity.postprocessing@3.2.2
+  resolvedPath: C:\Users\AtomROG\Documents\GitHub\Unity\greenerisation\Library\PackageCache\com.unity.postprocessing@3.2.2
   assetPath: Packages/com.unity.postprocessing
   name: com.unity.postprocessing
   displayName: Post Processing
