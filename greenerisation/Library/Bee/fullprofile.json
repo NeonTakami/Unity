@@ -9,6 +9,7 @@
 { "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
 { "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
 { "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+<<<<<<< HEAD
 { "pid": 0, "tid": 1, "ts": 1665019942753905, "dur": 118309, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1665019942753962, "dur": 44288, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1665019942798256, "dur": 64070, "ph": "X", "name": "Run Backend", "args": {} },
@@ -16,6 +17,15 @@
 { "pid": 0, "tid": 1, "ts": 1665019942872759, "dur": 6, "ph": "X", "name": "ChromeTraceHeader", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1665019942872778, "dur": 11, "ph": "X", "name": "", "args": {} },
 { "pid": 0, "tid": 1, "ts": 1665019942872766, "dur": 43, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+=======
+{ "pid": 0, "tid": 1, "ts": 1665019366379651, "dur": 77788, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665019366379679, "dur": 30241, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665019366409922, "dur": 37817, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665019366447740, "dur": 9699, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665019366457915, "dur": 4, "ph": "X", "name": "ChromeTraceHeader", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665019366457929, "dur": 8, "ph": "X", "name": "", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1665019366457920, "dur": 28, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 {}
 
 ]

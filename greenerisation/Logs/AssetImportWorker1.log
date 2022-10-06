@@ -1,6 +1,18 @@
 Using pre-set license
 Built from '2021.3/staging' branch; Version is '2021.3.8f1 (b30333d56e81) revision 11731763'; Using compiler version '192829333'; Build Type 'Release'
+<<<<<<< HEAD
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker1.log
 OS: 'Windows 10  (10.0.19044) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 15776 MB
+========
+OS: 'Windows 11  (10.0.22622) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 15715 MB
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker0.log
+=======
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker0.log
+OS: 'Windows 10  (10.0.19044) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 15776 MB
+========
+OS: 'Windows 11  (10.0.22622) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 15715 MB
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker1.log
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -9,15 +21,48 @@ C:\Program Files\Unity\Hub\Editor\2021.3.8f1\Editor\Unity.exe
 -batchMode
 -noUpm
 -name
+<<<<<<< HEAD
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker1.log
 AssetImportWorker1
 -projectPath
 C:/Users/AtomROG/Documents/GitHub/Unity/greenerisation
 -logFile
 Logs/AssetImportWorker1.log
+=======
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker0.log
+AssetImportWorker0
+-projectPath
+C:/Users/AtomROG/Documents/GitHub/Unity/greenerisation
+-logFile
+Logs/AssetImportWorker0.log
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 -srvPort
 52593
 Successfully changed project path to: C:/Users/AtomROG/Documents/GitHub/Unity/greenerisation
 C:/Users/AtomROG/Documents/GitHub/Unity/greenerisation
+========
+<<<<<<< HEAD
+AssetImportWorker0
+-projectPath
+C:/Users/VTG/Documents/GitHub/Unity/greenerisation
+-logFile
+Logs/AssetImportWorker0.log
+=======
+AssetImportWorker1
+-projectPath
+C:/Users/VTG/Documents/GitHub/Unity/greenerisation
+-logFile
+Logs/AssetImportWorker1.log
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
+-srvPort
+64670
+Successfully changed project path to: C:/Users/VTG/Documents/GitHub/Unity/greenerisation
+C:/Users/VTG/Documents/GitHub/Unity/greenerisation
+<<<<<<< HEAD
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker0.log
+=======
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker1.log
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,7 +92,13 @@ C:/Users/AtomROG/Documents/GitHub/Unity/greenerisation
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker1.log
 Refreshing native plugins compatible for Editor in 88.53 ms, found 3 plugins.
+=======
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker0.log
+Refreshing native plugins compatible for Editor in 88.86 ms, found 3 plugins.
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.8f1 (b30333d56e81)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Resources/UnitySubsystems
@@ -59,10 +110,34 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     8041 MB
     Driver:   30.0.15.1278
+========
+<<<<<<< HEAD
+Refreshing native plugins compatible for Editor in 97.38 ms, found 3 plugins.
+=======
+Refreshing native plugins compatible for Editor in 97.22 ms, found 3 plugins.
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.8f1 (b30333d56e81)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/VTG/Documents/GitHub/Unity/greenerisation/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 5500M (ID=0x7340)
+    Vendor:   ATI
+    VRAM:     4055 MB
+    Driver:   31.0.12002.4002
+<<<<<<< HEAD
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker0.log
+=======
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker1.log
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< HEAD
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker1.log
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56340
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
@@ -76,11 +151,59 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (617ms)
 		BeginReloadAssembly (72ms)
+========
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56728
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004197 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 82.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.549 seconds
+Domain Reload Profiling:
+	ReloadAssembly (550ms)
+		BeginReloadAssembly (63ms)
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker0.log
+=======
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker0.log
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56144
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006502 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 90.24 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.619 seconds
+Domain Reload Profiling:
+	ReloadAssembly (620ms)
+		BeginReloadAssembly (73ms)
+========
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56172
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004039 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 82.59 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.543 seconds
+Domain Reload Profiling:
+	ReloadAssembly (543ms)
+		BeginReloadAssembly (60ms)
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker1.log
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
+<<<<<<< HEAD
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker1.log
 		EndReloadAssembly (437ms)
 			LoadAssemblies (69ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -88,24 +211,76 @@ Domain Reload Profiling:
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (25ms)
 			SetupLoadedEditorAssemblies (259ms)
+=======
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker0.log
+		EndReloadAssembly (438ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (105ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (261ms)
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (90ms)
 				BeforeProcessingInitializeOnLoad (1ms)
+<<<<<<< HEAD
 				ProcessInitializeOnLoadAttributes (116ms)
 				ProcessInitializeOnLoadMethodAttributes (44ms)
+========
+		EndReloadAssembly (394ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (87ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (239ms)
+=======
+				ProcessInitializeOnLoadAttributes (118ms)
+				ProcessInitializeOnLoadMethodAttributes (44ms)
+========
+		EndReloadAssembly (390ms)
+			LoadAssemblies (59ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (86ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (237ms)
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (83ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+<<<<<<< HEAD
+				ProcessInitializeOnLoadAttributes (108ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker0.log
+=======
+				ProcessInitializeOnLoadAttributes (107ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker1.log
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< HEAD
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker1.log
 Registered in 0.005218 seconds.
+=======
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker0.log
+Registered in 0.004886 seconds.
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\AtomROG\Documents\GitHub\Unity\greenerisation\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\AtomROG\Documents\GitHub\Unity\greenerisation\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.89 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
@@ -113,10 +288,37 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (1005ms)
 		BeginReloadAssembly (121ms)
+========
+Registered in 0.004710 seconds.
+=======
+Refreshing native plugins compatible for Editor in 1.10 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.012 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1013ms)
+		BeginReloadAssembly (119ms)
+========
+Registered in 0.004983 seconds.
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\VTG\Documents\GitHub\Unity\greenerisation\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\VTG\Documents\GitHub\Unity\greenerisation\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+<<<<<<< HEAD
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.689 seconds
+Domain Reload Profiling:
+	ReloadAssembly (689ms)
+		BeginReloadAssembly (104ms)
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker0.log
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (6ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker1.log
 			CreateAndSetChildDomain (22ms)
 		EndReloadAssembly (723ms)
 			LoadAssemblies (92ms)
@@ -125,10 +327,21 @@ Domain Reload Profiling:
 			ReleaseScriptCaches (2ms)
 			RebuildScriptCaches (36ms)
 			SetupLoadedEditorAssemblies (281ms)
+========
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (483ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (160ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (196ms)
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker0.log
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (7ms)
 				SetLoadedEditorAssemblies (1ms)
 				RefreshPlugins (1ms)
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker1.log
 				BeforeProcessingInitializeOnLoad (125ms)
 				ProcessInitializeOnLoadAttributes (115ms)
 				ProcessInitializeOnLoadMethodAttributes (23ms)
@@ -136,16 +349,103 @@ Domain Reload Profiling:
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (7ms)
+========
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (82ms)
+				ProcessInitializeOnLoadMethodAttributes (20ms)
+=======
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.682 seconds
+Domain Reload Profiling:
+	ReloadAssembly (683ms)
+		BeginReloadAssembly (104ms)
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker1.log
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker0.log
+			CreateAndSetChildDomain (23ms)
+		EndReloadAssembly (731ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (258ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (286ms)
+========
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (478ms)
+			LoadAssemblies (66ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (159ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (194ms)
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker1.log
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker0.log
+				BeforeProcessingInitializeOnLoad (124ms)
+				ProcessInitializeOnLoadAttributes (122ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+========
+				BeforeProcessingInitializeOnLoad (83ms)
+				ProcessInitializeOnLoadAttributes (81ms)
+				ProcessInitializeOnLoadMethodAttributes (18ms)
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+<<<<<<< HEAD
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker0.log
+=======
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker1.log
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+<<<<<<< HEAD
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker1.log
 Refreshing native plugins compatible for Editor in 2.10 ms, found 3 plugins.
+=======
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker0.log
+Refreshing native plugins compatible for Editor in 3.00 ms, found 3 plugins.
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3888 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 62 unused Assets / (3.3 MB). Loaded Objects now: 4301.
 Memory consumption went from 143.2 MB to 139.9 MB.
+<<<<<<< HEAD
 Total: 14.542900 ms (FindLiveObjects: 0.987300 ms CreateObjectMapping: 0.752800 ms MarkObjects: 7.634300 ms  DeleteObjects: 5.165800 ms)
+========
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+=======
+Total: 16.761700 ms (FindLiveObjects: 1.730200 ms CreateObjectMapping: 2.028900 ms MarkObjects: 7.944600 ms  DeleteObjects: 5.051700 ms)
+========
+Refreshing native plugins compatible for Editor in 0.74 ms, found 3 plugins.
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3888 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 62 unused Assets / (3.3 MB). Loaded Objects now: 4301.
+Memory consumption went from 143.1 MB to 139.8 MB.
+<<<<<<< HEAD
+Total: 3.957200 ms (FindLiveObjects: 0.311000 ms CreateObjectMapping: 0.232300 ms MarkObjects: 2.400500 ms  DeleteObjects: 1.012400 ms)
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker0.log
+=======
+Total: 3.526300 ms (FindLiveObjects: 0.303600 ms CreateObjectMapping: 0.272500 ms MarkObjects: 2.116800 ms  DeleteObjects: 0.832300 ms)
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker1.log
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -159,7 +459,21 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
+<<<<<<<< HEAD:greenerisation/Logs/AssetImportWorker1.log
   Time since last request: 179112.081768 seconds.
   path: Assets/New Material.mat
   artifactKey: Guid(9b36f4e7bbf9d7048a1f581b802ac9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/New Material.mat using Guid(9b36f4e7bbf9d7048a1f581b802ac9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1ade0354db398e77ef313ec98f26ca') in 0.212418 seconds 
+========
+  Time since last request: 1293.282249 seconds.
+  path: Assets/Post_Processing.asset
+  artifactKey: Guid(1d1a758278da4ff4081eb103266d0cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Post_Processing.asset using Guid(1d1a758278da4ff4081eb103266d0cc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3989a101465ebbd93cc9a96cdcde7b1d') in 0.032035 seconds 
+>>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c:greenerisation/Logs/AssetImportWorker0.log
+=======
+  Time since last request: 1293.272007 seconds.
+  path: Assets/New Material.mat
+  artifactKey: Guid(9b36f4e7bbf9d7048a1f581b802ac9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Material.mat using Guid(9b36f4e7bbf9d7048a1f581b802ac9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a227dfa80f20e46074faba5b6dea868') in 0.134049 seconds 
+>>>>>>> 1303a9e4c7900912027f9edd6044e20d0700d13c
