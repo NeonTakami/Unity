@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638005701883156478
+      ticks: 638005701900000000
     m_Hash: 1379546654
   m_LockFileStatus:
     m_FilePath: C:/Users/VTG/Documents/GitHub/Unity/greenerisation/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638005701883223705
+      ticks: 638005701900000000
     m_Hash: 997044836
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -36,7 +36,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Editor
-  type: 
+  type: asset
   description: The Version Control package gives you the ability to use either Collaborate
     or Plastic SCM for Unity (beta) in the Unity editor. To use Plastic SCM for Unity
     (beta), a Plastic SCM subscription is required. Learn more about how you can
@@ -95,6 +95,8 @@ m_ResolvedPackages:
     - 1.17.0
     - 1.17.1
     - 1.17.2
+    - 1.17.6
+    - 1.17.7
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -108,6 +110,8 @@ m_ResolvedPackages:
     compatible:
     - 1.17.1
     - 1.17.2
+    - 1.17.6
+    - 1.17.7
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -118,7 +122,7 @@ m_ResolvedPackages:
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
-    verified: 1.17.2
+    verified: 1.17.7
   dependencies:
   - name: com.unity.services.core
     version: 1.0.1
@@ -152,7 +156,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637916644700000000
   documentationUrl: 
@@ -265,7 +269,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: The JetBrains Rider Editor package provides an integration for using
     the JetBrains Rider IDE as a code editor for Unity. It adds support for generating
     .csproj files for code completion and auto-discovery of installations.
@@ -304,9 +308,13 @@ m_ResolvedPackages:
     - 3.0.13
     - 3.0.14
     - 3.0.15
+    - 3.0.16
+    - 3.0.17
     compatible:
     - 3.0.15
-    verified: 3.0.15
+    - 3.0.16
+    - 3.0.17
+    verified: 3.0.17
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -321,7 +329,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637914298700000000
   documentationUrl: 
@@ -348,7 +356,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: Code editor integration for supporting Visual Studio as code editor
     for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
@@ -375,9 +383,11 @@ m_ResolvedPackages:
     - 2.0.14
     - 2.0.15
     - 2.0.16
+    - 2.0.17
     compatible:
     - 2.0.16
-    verified: 2.0.16
+    - 2.0.17
+    verified: 2.0.17
   dependencies:
   - name: com.unity.test-framework
     version: 1.1.9
@@ -398,7 +408,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637914298680000000
   documentationUrl: 
@@ -486,7 +496,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: A new input system which can be used as a more extensible and customizable
     alternative to Unity's classic input system in UnityEngine.Input.
   status: 4
@@ -528,11 +538,13 @@ m_ResolvedPackages:
     - 1.4.1
     - 1.4.2
     - 1.4.3
+    - 1.4.4
     compatible:
     - 1.4.1
     - 1.4.2
     - 1.4.3
-    verified: 1.4.3
+    - 1.4.4
+    verified: 1.4.4
   dependencies:
   - name: com.unity.modules.uielements
     version: 1.0.0
@@ -563,7 +575,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 638000569960000000
   documentationUrl: 
@@ -678,7 +690,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Unity Test Framework
-  type: 
+  type: asset
   description: Test framework for running Edit mode and Play mode tests in Unity.
   status: 4
   errors: []
@@ -718,13 +730,21 @@ m_ResolvedPackages:
     - 1.1.30
     - 1.1.31
     - 1.1.33
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
     - 2.0.1-exp.1
+    - 2.0.1-exp.2
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     compatible:
     - 1.1.31
     - 1.1.33
+    - 1.3.0
+    - 1.3.1
+    - 1.3.2
     - 2.0.1-exp.1
+    - 2.0.1-exp.2
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     verified: 1.1.33
@@ -752,7 +772,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637804266210000000
   documentationUrl: 
@@ -779,7 +799,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Text Rendering
-  type: 
+  type: asset
   description: 'TextMeshPro is the ultimate text solution for Unity. It''s the perfect
     replacement for Unity''s UI Text and the legacy Text Mesh.
 
@@ -887,12 +907,14 @@ m_ResolvedPackages:
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
+    - 3.2.0-pre.4
     - 4.0.0-pre.1
     compatible:
     - 3.0.6
     - 3.2.0-pre.1
     - 3.2.0-pre.2
     - 3.2.0-pre.3
+    - 3.2.0-pre.4
     verified: 3.0.6
   dependencies:
   - name: com.unity.ugui
@@ -917,7 +939,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637547111200000000
   documentationUrl: 
@@ -944,7 +966,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: Use Unity Timeline to create cinematic content, game-play sequences,
     audio sequences, and complex particle effects.
   status: 4
@@ -1023,12 +1045,16 @@ m_ResolvedPackages:
     - 1.7.0-pre.2
     - 1.7.0
     - 1.7.1
+    - 1.7.2
+    - 1.8.0
     compatible:
     - 1.6.4
     - 1.7.0-pre.1
     - 1.7.0-pre.2
     - 1.7.0
     - 1.7.1
+    - 1.7.2
+    - 1.8.0
     verified: 1.6.4
   dependencies:
   - name: com.unity.modules.director
@@ -1061,7 +1087,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637789039180000000
   documentationUrl: 
@@ -1183,8 +1209,10 @@ m_ResolvedPackages:
     - 1.7.7
     - 1.7.8
     - 1.8.0-pre.1
+    - 1.8.0
     compatible:
     - 1.7.8
+    - 1.8.0
     verified: 1.7.8
   dependencies:
   - name: com.unity.ugui
@@ -3156,7 +3184,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: Use this package to export code coverage data and reports from your
     automated tests. Additionally, the Code Coverage package offers a Coverage Recording
     feature which allows capturing coverage data on demand, for manual testing or
@@ -3191,6 +3219,8 @@ m_ResolvedPackages:
     - 1.2.0-exp.6
     - 1.2.0-exp.7
     - 1.2.0
+    - 1.2.1
+    - 1.2.2
     compatible:
     - 1.0.1
     - 1.1.0
@@ -3203,6 +3233,8 @@ m_ResolvedPackages:
     - 1.2.0-exp.6
     - 1.2.0-exp.7
     - 1.2.0
+    - 1.2.1
+    - 1.2.2
     verified: 1.0.1
   dependencies:
   - name: com.unity.test-framework
@@ -3232,7 +3264,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637594767130000000
   documentationUrl: 
@@ -3259,7 +3291,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: 
+  type: asset
   description: 'This package defines common components used by multiple Game Service
     packages.
 
@@ -3284,9 +3316,15 @@ m_ResolvedPackages:
     - 1.4.1
     - 1.4.2
     - 1.4.3
+    - 1.5.2
+    - 1.6.0
+    - 1.7.0
     compatible:
     - 1.4.2
     - 1.4.3
+    - 1.5.2
+    - 1.6.0
+    - 1.7.0
     verified: 1.4.3
   dependencies:
   - name: com.unity.modules.unitywebrequest
@@ -3310,7 +3348,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637919618520000000
   documentationUrl: 

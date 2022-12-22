@@ -10,7 +10,7 @@ public class StartGame : MonoBehaviour
 
         if (Input.GetKeyDown("space"))
         {
-            SceneManager.LoadScene("stage01");
+            SceneManager.LoadScene("Howto");
         }
 
 
